@@ -1,0 +1,72 @@
+.parent-projects {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.project {
+    position: relative;
+    margin: 15px 25px 15px 25px;
+
+}
+
+h3 {
+    position: aboslute;
+    bottom: 30px;
+}
+.WordGuess
+{
+display:flex;
+justify-content:center;
+background-color:#4aaaa7;
+color:#ffffff;
+position:relative;
+left:0px;
+top:-100px;
+width:320px;
+
+}
+.RPGGame
+{
+    display:flex;
+    justify-content:center;
+    background-color:#4aaaa7;
+    color:#ffffff;
+    position:relative;
+    left:0px;
+    top:-100px;
+    width:320px;   
+}
+.TriviaGame
+{
+    display:flex;
+    justify-content:center;
+    background-color:#4aaaa7;
+    color:#ffffff;
+    position:relative;
+    left:0px;
+    top:-105px;
+    width:320px;  
+}
+.RutgersInfoWidget
+{
+    display:flex;
+    justify-content:center;
+    background-color:#4aaaa7;
+    color:#ffffff;
+    position:relative;
+    left:0px;
+    top:-105px;
+    width:320px;  
+}
+.RockPaperScissors
+{
+    display:flex;
+    justify-content:center;
+    background-color:#4aaaa7;
+    color:#ffffff;
+    position:relative;
+    left:0px;
+    top:-105px;
+    width:320px;   
+}
